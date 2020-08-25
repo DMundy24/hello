@@ -1,6 +1,7 @@
 /**
- * Author: Dillon Mundy
- * Date:   2020
+ * Authors: Dillon Mundy
+ *          Carrell Hunter
+ * Date:    2020
  *
  * A simple hello program
  */
